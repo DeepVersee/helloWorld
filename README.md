@@ -1,2 +1,4 @@
 # helloWorld
-first repository
+first repository<br>
+Made to explore github
+
